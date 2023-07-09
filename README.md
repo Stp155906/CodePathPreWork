@@ -1,23 +1,13 @@
+## App Brainstorming 
+
+A Virtual Coffee type of pair programming/body doubling study app for campuses 
+
+A herbal recipe tea-sharing app that pulls up a recent national library of medicine app with the power of long-chain since i have experience with long-chain and python 
 
 
 
-Settings
 
-Hi! Here some our recommendations to get the best out of BLACKBOX:
 
-Be as clear as possible
-
-End the question in what language you want the answer to be, e.g: ‘connect to mongodb in python
-or you can just
-Watch tutorial video
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
 # Prework - *Name of App Here*
 
 Submitted by: **Your Name Here**
